@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ner:home|Door43 (ner)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ner|d43-ner repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ner/archive/master.zip|d43-ner.zip]]
+
+**Recent Changes**
+{{changes>ns = ner}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ner|Ethnologue data]]
+
